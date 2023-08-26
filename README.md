@@ -21,3 +21,5 @@ Dataset : [Churn_Modelling.csv](https://github.com/IAMSAGAYAABINESH/Artificial-N
 14. **Exited**: The target variable indicating whether the customer has exited the bank (1 for Yes, 0 for No).
 
 The goal of using this dataset for artificial neural network classification could be to predict whether a customer will churn (exit the bank) based on the provided features. The features include both demographic and behavioral attributes of the customers, such as credit score, age, tenure, balance, and product usage, which may have an impact on the likelihood of churn. The dataset can be split into training and testing sets, and a neural network can be trained on this data to learn patterns that predict customer churn, which can be valuable for the bank's customer retention strategies.
+
+![Customer-Churn](https://github.com/IAMSAGAYAABINESH/Artificial-Neural-Network--Churn-/assets/76099682/ac79b5e6-bca7-4308-9cf9-64064e3ae8ed)
